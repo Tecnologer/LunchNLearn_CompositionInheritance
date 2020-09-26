@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="Inheritance\Animal.cs" />
+    <Content Include="Inheritance\Dog.cs" />
+    <Content Include="Inheritance\Cat.cs" />
+    <Content Include="Inheritance\AnimalFactory.cs" />
+    <Content Include="Inheritance\AnimalType.cs" />
+    <Content Include="Composition\Monster.cs" />
+    <Content Include="Composition\MonsterFactory.cs" />
+    <Content Include="Composition\MonsterType.cs" />
+    <Content Include="Inheritance\Mammal.cs" />
+    <Content Include="Inheritance\Oviparity.cs" />
+    <Content Include="Inheritance\Felidae.cs" />
+    <Content Include="Inheritance\Caninae.cs" />
+    <Content Include="Inheritance\Duck.cs" />
+    <Content Include="Bitwise\Monster.cs" />
+    <Content Include="Bitwise\MonsterFactory.cs" />
+    <Content Include="Composition_Monster\Monster.cs" />
+    <Content Include="Composition_Monster\MonsterType.cs" />
+    <Content Include="Composition_Monster\MonsterFactory.cs" />
+    <Content Include="Composition\Animal.cs" />
+    <Content Include="Composition\Mammal.cs" />
+    <Content Include="Models\Animal.cs" />
+    <Content Include="Composition\Caninae.cs" />
+    <Content Include="Composition\Dog.cs" />
+    <Content Include="Composition\Felidae.cs" />
+    <Content Include="Composition\Interfaces\IFamily.cs" />
+    <Content Include="Composition\Interfaces\IAnimal.cs" />
+    <Content Include="Composition\Cat.cs" />
+    <Content Include="Composition\Oviparity.cs" />
+    <Content Include="Composition\Interfaces\IClass.cs" />
+    <Content Include="Composition\Anatidae.cs" />
+    <Content Include="Composition\Duck.cs" />
+  </ItemGroup>
+</Project>
